@@ -1,0 +1,51 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+דורון בכר מפיק דיגיטלי לעסקים — מדפי נחיתה ועד הפקת כנסים דיגיטליים, אוטומציות ומערכות רישום. תתמקד במה שאתה טוב בו, השאר בידיים שלנו.
+
+### שירותים
+https://example.com/services
+דפי נחיתה, ניהול זום, מערכות רישום, אוטומציות וקורסים דיגיטליים — שירותי הפקה טכנולוגית מקצה לקצה לבעלי עסקים ומומחים שרוצים להשפיע.
+
+### תהליך
+https://example.com/process
+גלה איך תהליך העבודה של דורון בכר הופך חזון לפרויקט מוגמר — בשלבים ברורים, בלי עומס, בלי הפתעות. כך נראה שיתוף פעולה שנותן שקט אמיתי.
+
+### אודות
+https://example.com/about
+דורון בכר הוא המפיק הטכני שמאחורי מטפלים, מרצים ויזמים מובילים. הכר את הסיפור, הערכים והגישה שהופכים רעיונות גדולים למציאות עובדת ומניבה.
+
+### צור קשר
+https://example.com/contact
+צור קשר עם דורון בכר היום ותתחיל לבנות את המערכת הדיגיטלית שתשחרר אותך לעשות את מה שאתה אוהב. הפקת קורסים, כנסים ואוטומציות — הכל מתחיל כאן.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
